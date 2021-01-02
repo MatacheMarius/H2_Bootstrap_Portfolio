@@ -4,9 +4,7 @@
 
 ___
 
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/dv7CWyERvV0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=dv7CWyERvV0&ab)](https://www.youtube.com/watch?v=dv7CWyERvV0&ab_channel=pokerchampion "Everything Is AWESOME")
 
 ### About Me:
 ![Home test <768px](./Assets/8.png)
