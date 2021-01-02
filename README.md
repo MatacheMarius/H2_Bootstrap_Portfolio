@@ -3,7 +3,9 @@
 
 
 ___
-#### About Me:
+## About Me:
+### Changelog index.html:
+
 
 
 [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=dv7CWyERvV0&ab)](https://www.youtube.com/watch?v=dv7CWyERvV0&ab_channel=pokerchampion "Everything Is AWESOME")
@@ -11,7 +13,6 @@ ___
 ![Home test <768px](./Assets/8.png)
 ![Home test <768px](./Assets/7.png)
 
-## Changelog index.html:
 
 * _Responsive navbar_
 
