@@ -4,7 +4,7 @@
 
 ___
 ### About Me:
-![Portfolio](./assets/8.jpg)
+![Portfolio](./assets/8.png)
 ![Portfolio](./assets/7.png)
 ## Changelog index.html:
 
