@@ -12,13 +12,15 @@ ___
 * _Responsive navbar_
 
 ### Contact
-![Portfolio](./assets/6.png)
-![Portfolio](./assets/10.png)
+![Home test <768px](./Assets/6.png)
+![Home test <768px](./Assets/10.png)
+
 * _Responsive form_
 
 ### Portfolio:
-![Portfolio](./assets/9.png)
-![Portfolio](./assets/11.png)
+![Home test <768px](./Assets/9.png)
+![Home test <768px](./Assets/11.png)
+
 
 * _Responsive images_
 ---
