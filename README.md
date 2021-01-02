@@ -40,7 +40,6 @@ ___
 
 
 
-
 ##### Credits:
 >* [Bootstrap](https://getbootstrap.com/)
 >* [Google](https://www.google.com/)
