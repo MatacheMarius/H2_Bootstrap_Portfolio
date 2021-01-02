@@ -3,10 +3,11 @@
 
 
 ___
+#### About Me:
+
 
 [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=dv7CWyERvV0&ab)](https://www.youtube.com/watch?v=dv7CWyERvV0&ab_channel=pokerchampion "Everything Is AWESOME")
 
-### About Me:
 ![Home test <768px](./Assets/8.png)
 ![Home test <768px](./Assets/7.png)
 
